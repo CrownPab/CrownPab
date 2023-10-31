@@ -18,6 +18,18 @@ I am Gagan Pabla, recent Computer Science graduate from the University of Ontari
 
 - ⚡ Hobbies : Weight Training, Photography, Cars
 
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/gaganpabla377/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=gaganpabla117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://pabla.dev">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</div>
+
 # 🏆 HacktoberFest 2023 Badges
 
 [![An image of @crownpab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/crownpab)](https://holopin.io/@crownpab)
