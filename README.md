@@ -85,6 +85,17 @@ I am Gagan Pabla, recent Computer Science graduate from the University of Ontari
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
 </div>
 
+# 🔥 My Stats
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=CrownPab&count_private=true&show_icons=true&theme=react" /> <img width="425" src="https://streak-stats.demolab.com/?user=CrownPab&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=CrownPab&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrownPab&layout=compact&langs_count=10&theme=react" />
+</a>
+<!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AvaterClasher&theme=react) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
+
 <!--
 **CrownPab/CrownPab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
