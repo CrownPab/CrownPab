@@ -2,10 +2,9 @@
 Hi, I'm Gagan Pabla ✌️
 </div>
 
----
-
+<div align="center"> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=F70000&random=false&width=435&lines=Software+Engineer+%7C+Tech+Enthusiast+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
-
+</div>
 ---
 
 [![An image of @crownpab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/crownpab)](https://holopin.io/@crownpab)
