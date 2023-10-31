@@ -3,7 +3,7 @@ Hi, I'm Gagan Pabla ✌️
 </div>
 
 <div align="center"> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=F70000&random=false&width=435&lines=Software+Engineer+%7C+Tech+Enthusiast+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=F70000&random=false&width=435&lines=Software+Engineer+%7C+Tech+Enthusiast+%7C+Open+Source+Contributor" alt="Typing SVG" /></a>
 </div>
 ---
 
