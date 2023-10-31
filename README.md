@@ -36,6 +36,17 @@ I am Gagan Pabla, recent Computer Science graduate from the University of Ontari
 
 [![An image of @crownpab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/crownpab)](https://holopin.io/@crownpab)
 
+# 💻 Projects
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [Green](https://github.com/CrownPab/WebDevFinalProject)  | Online Personal Finance Web Application 
+| [Pabla.Dev](https://pabla.dev)     | A portfolio website I built for myself using Gatsby.Js
+| [Pokemon Cafe](https://github.com/CrownPab/PokemonCafe)     | Mobile App for a Pokemon Themed Cafe
+| [Detecting Pneumonia with Machine Learning](https://github.com/CrownPab/Brainstation)     | Convolutional Neural Network model to detect pneuomonia in X-ray images
+| [Design Patterns](https://javascript.sumankunwar.com.np/en/design-patterns/)     | Contributed to an open source javascript book where I wrote an entire chapter on design patterns.
+| [Galaxy Attack](https://github.com/CrownPab/GalaxyAttack2)  | 2D Action game built in Unity |
+
 <!--
 **CrownPab/CrownPab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
