@@ -1,6 +1,6 @@
-<div align="center> 
+<div align="center"> 
 ### Hi, I'm Gagan Pabla
-    </div>
+</div>
 
 ---
 
