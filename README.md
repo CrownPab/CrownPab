@@ -7,11 +7,11 @@ Hi, I'm Gagan Pabla ✌️
 </div>
 
 # 🏆 HacktoberFest 2023 Badges
----
+--
 [![An image of @crownpab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/crownpab)](https://holopin.io/@crownpab)
 
-# About Me 🧑🏾
----
+# 🧑🏾 About Me
+--
 
 I am Gagan Pabla, recent Computer Science graduate from the University of Ontario Institute of Technology. Currently I am looking for software engineering roles within fast-paced and innovative companies. I’m a Full Stack Developer with one year of web development experience obtained over a series of internships completed during my undergraduate. I am living in Ontario, Canada but am open to relocating for the right role. As of now, I am focused on web application development and UI/UX design but I still wish to explore many fields within computer science. 
 
