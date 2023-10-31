@@ -98,6 +98,10 @@ I am Gagan Pabla, recent Computer Science graduate from the University of Ontari
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
 
+### 🐍 Contribution snake
+
+![Snake animation](https://github.com/CrownPab/CrownPab/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!--
 **CrownPab/CrownPab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
