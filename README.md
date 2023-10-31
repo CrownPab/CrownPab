@@ -5,10 +5,12 @@ Hi, I'm Gagan Pabla ✌️
 <div align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=F70000&random=false&width=435&lines=Software+Engineer+%7C+Tech+Enthusiast+%7C+Open+Source+Contributor" alt="Typing SVG" /></a>
 </div>
----
 
+# 🏆 HacktoberFest 2023 Badges
+---
 [![An image of @crownpab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/crownpab)](https://holopin.io/@crownpab)
 
+# About Me 🧑🏾
 ---
 
 I am Gagan Pabla, recent Computer Science graduate from the University of Ontario Institute of Technology. Currently I am looking for software engineering roles within fast-paced and innovative companies. I’m a Full Stack Developer with one year of web development experience obtained over a series of internships completed during my undergraduate. I am living in Ontario, Canada but am open to relocating for the right role. As of now, I am focused on web application development and UI/UX design but I still wish to explore many fields within computer science. 
