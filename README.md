@@ -18,6 +18,7 @@ I am Gagan Pabla, recent Computer Science graduate from the University of Ontari
 
 - ⚡ Hobbies : Weight Training, Photography, Cars
 
+<div align="center"> 
   <div id="badges">
     <a href="https://www.linkedin.com/in/gaganpabla377/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -28,6 +29,7 @@ I am Gagan Pabla, recent Computer Science graduate from the University of Ontari
     <a href="https://pabla.dev">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
+</div>
 </div>
 
 # 🏆 HacktoberFest 2023 Badges
