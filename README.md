@@ -100,7 +100,7 @@ I am Gagan Pabla, recent Computer Science graduate from the University of Ontari
 
 ### 🐍 Contribution snake
 
-![snake gif](https://github.com/CrownPab/CrownPab/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/CrownPab/CrownPab/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **CrownPab/CrownPab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
